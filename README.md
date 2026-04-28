@@ -29,7 +29,7 @@
 
 </div>
 
-> Experienced in **research reporting**, **full-stack development**, academic engagement across top global universities, and AI data annotation. Building in public from Nepal. 244+ GitHub contributions in 2025 and counting.
+> Experienced in **research reporting**, **full-stack development**, academic engagement across top global universities, and AI data annotation. Building in public from Nepal. 250+ GitHub contributions and counting.
 
 ---
 
@@ -39,7 +39,7 @@
 
 | 🔥 Contributions | 🏫 Academic Events | 📬 University Lists | 🗂️ Repos |
 |:-:|:-:|:-:|:-:|
-| **244+ in 2025** | **100+** | **32+** | **24** |
+| **250+ in 2025** | **100+** | **32+** | **24** |
 
 </div>
 
