@@ -2,14 +2,14 @@
 
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 
-```
+<pre>
 ██╗  ██╗ █████╗ ██████╗ ██╗███╗   ██╗
 ██║ ██╔╝██╔══██╗██╔══██╗██║████╗  ██║
 █████╔╝ ███████║██████╔╝██║██╔██╗ ██║
 ██╔═██╗ ██╔══██║██╔══██╗██║██║╚██╗██║
 ██║  ██╗██║  ██║██████╔╝██║██║ ╚████║
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝╚═╝  ╚═══╝
-```
+</pre>
 
 ### Full-Stack Developer · AI Annotator · Researcher
 #### 🇳🇵 Nepal · UTC+5:45
@@ -26,8 +26,6 @@
 ---
 
 <div align="center">
-
-## `> whoami`
 
 </div>
 
@@ -87,18 +85,9 @@
 
 `Python` `Flask` `SQL` `HTML/CSS` `JavaScript`
 
----
 
-### 🌏 Gorkha Earthquake Wave Analysis (2015)
-> Research project analyzing seismic wave patterns and societal impact of the April 25, 2015 Nepal earthquake.
-> Used statistical analysis tools and survey methods for primary and secondary data evaluation.
-
-`Research` `Statistics` `Survey Methods` `Data Analysis`
-
----
-
-### 🧬 [CS50 Problem Sets — 9 Labs · 10 Problems](https://github.com/kabincs9)
-> Harvard's legendary CS50x: algorithms, cryptography, image processing, databases, and web applications.
+### 🧬 [Problem Sets — 9 Labs · 10 Problems](https://github.com/kabincs9)
+> Harvard's legendary : algorithms, cryptography, image processing, databases, and web applications.
 
 | Project | Description | Language |
 |---|---|---|
@@ -117,7 +106,7 @@
 | 🎓 Harvard University | ⚡ NVIDIA | ☁️ Oracle |
 |:-:|:-:|:-:|
 | **CS50x** | **Gen AI** | **Cloud Infrastructure** |
-| [![Certificate](https://img.shields.io/badge/View_Certificate-A51C30?style=flat-square)](https://certificates.cs50.io/12e8568e-faf8-4393-afb4-4f8276053d2a.pdf) | [![Certificate](https://img.shields.io/badge/View_Certificate-76B900?style=flat-square)](https://academy.nvidia.com/mod/certificate/view.php?id=18980&action=get) | [![Certificate](https://img.shields.io/badge/Certified-F80000?style=flat-square)](#) |
+| [![Certificate](https://img.shields.io/badge/View_Certificate-A51C30?style=flat-square)](https://certificates.cs50.io/12e8568e-faf8-4393-afb4-4f8276053d2a.pdf) | [![Certificate](https://img.shields.io/badge/View_Certificate-76B900?style=flat-square)](https://academy.nvidia.com/mod/certificate/view.php?id=18980&action=get) |Race 2025
 
 </div>
 
