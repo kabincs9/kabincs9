@@ -8,16 +8,18 @@
 ██║  ██╗██║  ██║██████╔╝██║██║ ╚████║
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝╚═╝  ╚═══╝
 </pre>
+
 ### 🏫 Prasadi Academy
-#### 💻 Computer Engineering 
- 
-### Full-Stack Developer · AI Annotator · Researcher ·
+#### 💻 Computer Engineering
+
+### Full-Stack Developer · AI Annotator · Researcher · ML Engineer
 #### 🇳🇵 Nepal · UTC+5:45
 
 [![GitHub](https://img.shields.io/badge/GitHub-kabincs9-181717?style=for-the-badge&logo=github)](https://github.com/kabincs9)
 [![CS50x](https://img.shields.io/badge/Harvard-CS50x_Certified-A51C30?style=for-the-badge&logo=edx&logoColor=white)](https://certificates.cs50.io/12e8568e-faf8-4393-afb4-4f8276053d2a.pdf)
 [![LangChain](https://img.shields.io/badge/LangChain_Academy-Certified-1C3D5A?style=for-the-badge&logo=chainlink&logoColor=white)](https://academy.langchain.com/certificates/eht4iamrjm)
-[![NVIDIA](https://img.shields.io/badge/NVIDIA-Gen_AI_Certified-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://academy.nvidia.com/mod/certificate/view.php?id=18980&action=get)
+[![IBM](https://img.shields.io/badge/IBM_SkillsBuild-ML_Certified-054ADA?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/672ea47f-948f-474f-b9df-3f51eaa207aa/public_url)
+[![NVIDIA](https://img.shields.io/badge/NVIDIA-Gen_AI_Certified-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://drive.google.com/file/d/1sRHtq3UFt1wSvIbSLw0Ga_Z2eJCNf9Id/view)
 [![Oracle](https://img.shields.io/badge/Oracle-Cloud_Infrastructure-F80000?style=for-the-badge&logo=oracle&logoColor=white)](#)
 [![Microsoft](https://img.shields.io/badge/Microsoft-UHRS_Annotator-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](#)
 [![Status](https://img.shields.io/badge/Status-Open_to_Work-22c55e?style=for-the-badge)](#)
@@ -26,7 +28,7 @@
 
 ---
 
-> Experienced in **research reporting**, **full-stack development**, **AI agent engineering**, academic engagement across top global universities, and AI data annotation. Building in public from Nepal. 250+ GitHub contributions and counting.
+> Experienced in **research reporting**, **full-stack development**, **AI agent engineering**, **machine learning**, academic engagement across top global universities, and AI data annotation. Building in public from Nepal. 250+ GitHub contributions and counting.
 
 ---
 
@@ -74,6 +76,18 @@
 ![Agent Chat UI](https://img.shields.io/badge/Agent_Chat_UI-22C55E?style=flat-square&logo=chatbot&logoColor=white)
 ![Middleware Agent](https://img.shields.io/badge/Middleware_Dynamic_Agent-EF4444?style=flat-square&logo=fastapi&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/Gen_AI-76B900?style=flat-square&logo=nvidia&logoColor=white)
+
+### 🧠 Machine Learning
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Supervised Learning](https://img.shields.io/badge/Supervised_Learning-0EA5E9?style=flat-square&logo=brain&logoColor=white)
+![Unsupervised Learning](https://img.shields.io/badge/Unsupervised_Learning-8B5CF6?style=flat-square&logo=clustering&logoColor=white)
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-F59E0B?style=flat-square&logo=probot&logoColor=white)
+![Regression](https://img.shields.io/badge/Linear_%2F_Logistic_Regression-EC4899?style=flat-square)
+![KNN](https://img.shields.io/badge/KNN-22C55E?style=flat-square)
+![SVM](https://img.shields.io/badge/SVM-EF4444?style=flat-square)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6B35?style=flat-square)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 ### AI & Design Tools
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
@@ -135,8 +149,58 @@
 | 🎓 Harvard University | 🔗 LangChain Academy | ⚡ NVIDIA | ☁️ Oracle |
 |:-:|:-:|:-:|:-:|
 | **CS50x** | **Intro to LangChain — Python** | **Gen AI** | **Cloud Infrastructure** |
-| [![Certificate](https://img.shields.io/badge/View_Certificate-A51C30?style=flat-square)](https://certificates.cs50.io/12e8568e-faf8-4393-afb4-4f8276053d2a.pdf) | [![Certificate](https://img.shields.io/badge/View_Certificate-1C3D5A?style=flat-square)](https://academy.langchain.com/certificates/eht4iamrjm) | [![Certificate](https://img.shields.io/badge/View_Certificate-76B900?style=flat-square)](https://academy.nvidia.com/mod/certificate/view.php?id=18980&action=get) | Oracle 2025 |
+| [![Certificate](https://img.shields.io/badge/View_Certificate-A51C30?style=flat-square)](https://certificates.cs50.io/12e8568e-faf8-4393-afb4-4f8276053d2a.pdf) | [![Certificate](https://img.shields.io/badge/View_Certificate-1C3D5A?style=flat-square)](https://academy.langchain.com/certificates/eht4iamrjm) | [![Certificate](https://img.shields.io/badge/View_Certificate-76B900?style=flat-square)](https://drive.google.com/file/d/1sRHtq3UFt1wSvIbSLw0Ga_Z2eJCNf9Id/view) | Oracle 2025 |
 
+</div>
+
+---
+
+## 🤖 IBM SkillsBuild — Machine Learning Journey
+
+<div align="center">
+
+> Currently advancing through **IBM's Machine Learning** curriculum on SkillsBuild.
+> Earned a verified digital credential. Still completing the full **Foundations in Building Machine Learning Models** pathway.
+
+---
+
+### 🏆 Digital Credentials Earned
+
+| # | Badge | Issued By | Skills Validated | Credential |
+|:-:|:------|:---------:|:-----------------|:----------:|
+| 1️⃣ | **Machine Learning Methods & Tools** | IBM SkillsBuild | Supervised · Unsupervised · Reinforcement Learning · ML Algorithms · Python Libraries · Math & Stats | [![View Badge](https://img.shields.io/badge/View_Digital_Credential-054ADA?style=flat-square&logo=ibm&logoColor=white)](https://www.credly.com/badges/672ea47f-948f-474f-b9df-3f51eaa207aa/public_url) |
+
+---
+
+### 📚 Currently Learning — Foundations in Building Machine Learning Models
+
+> 🔄 **In Progress** — Completing remaining modules of the IBM SkillsBuild ML pathway
+
+| Module | Topic | Status |
+|:-------|:------|:------:|
+| 📐 Math & Stats for ML | Probability, Linear Algebra, Statistics | ✅ Done |
+| 🐍 Python for ML | NumPy, Pandas, scikit-learn | ✅ Done |
+| 📊 Supervised Learning | Linear Regression, Logistic Regression, KNN | 🔄 Learning |
+| 🌀 Unsupervised Learning | Clustering, Dimensionality Reduction | 🔄 Learning |
+| ⚡ Advanced Algorithms | SVM, XGBoost, Decision Trees | 🔄 Learning |
+| 🎮 Reinforcement Learning | Agents, Rewards, Policies | 🔄 Learning |
+| 🛠️ ML Tools & Libraries | scikit-learn, Jupyter, Watson Studio | 🔄 Learning |
+
+---
+
+### 🧩 ML Skills Tags
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-054ADA?style=flat-square&logo=ibm&logoColor=white)
+![Supervised Learning](https://img.shields.io/badge/Supervised_Learning-0EA5E9?style=flat-square)
+![Unsupervised Learning](https://img.shields.io/badge/Unsupervised_Learning-8B5CF6?style=flat-square)
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-F59E0B?style=flat-square)
+![ML Algorithms](https://img.shields.io/badge/ML_Algorithms-EC4899?style=flat-square)
+![Linear Regression](https://img.shields.io/badge/Linear_Regression-22C55E?style=flat-square)
+![Logistic Regression](https://img.shields.io/badge/Logistic_Regression-14B8A6?style=flat-square)
+![KNN](https://img.shields.io/badge/KNN-EF4444?style=flat-square)
+![SVM](https://img.shields.io/badge/SVM-FF6B35?style=flat-square)
+![XGBoost](https://img.shields.io/badge/XGBoost-76B900?style=flat-square)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 </div>
 
@@ -174,7 +238,7 @@
 
 ---
 
-*"Experienced in research reporting, full-stack projects, AI agent engineering, academic, technical, open-source communities and global platforms."*
+*"Experienced in research reporting, full-stack projects, AI agent engineering, machine learning, academic, technical, open-source communities and global platforms."*
 
 [![GitHub](https://img.shields.io/badge/Follow_@kabincs9-181717?style=for-the-badge&logo=github)](https://github.com/kabincs9)
 
