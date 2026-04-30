@@ -12,7 +12,7 @@
 ### 🏫 Prasadi Academy
 #### 💻 Computer Engineering
 
-### Full-Stack Developer · AI Annotator · Researcher · ML Engineer
+### Full-Stack Developer · AI Annotator · Researcher · ML
 #### 🇳🇵 Nepal · UTC+5:45
 
 [![GitHub](https://img.shields.io/badge/GitHub-kabincs9-181717?style=for-the-badge&logo=github)](https://github.com/kabincs9)
