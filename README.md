@@ -77,17 +77,6 @@
 ![Middleware Agent](https://img.shields.io/badge/Middleware_Dynamic_Agent-EF4444?style=flat-square&logo=fastapi&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/Gen_AI-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
-### 🧠 Machine Learning
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Supervised Learning](https://img.shields.io/badge/Supervised_Learning-0EA5E9?style=flat-square&logo=brain&logoColor=white)
-![Unsupervised Learning](https://img.shields.io/badge/Unsupervised_Learning-8B5CF6?style=flat-square&logo=clustering&logoColor=white)
-![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-F59E0B?style=flat-square&logo=probot&logoColor=white)
-![Regression](https://img.shields.io/badge/Linear_%2F_Logistic_Regression-EC4899?style=flat-square)
-![KNN](https://img.shields.io/badge/KNN-22C55E?style=flat-square)
-![SVM](https://img.shields.io/badge/SVM-EF4444?style=flat-square)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6B35?style=flat-square)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 ### AI & Design Tools
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
