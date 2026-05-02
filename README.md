@@ -9,10 +9,7 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝╚═╝  ╚═══╝
 </pre>
 
-### 🏫 Prasadi Academy
-#### 💻 Computer Engineering
-
-### Full-Stack Developer · AI Annotator · Researcher · ML
+#### Full-Stack Developer · AI Agent Engineer · ML Practitioner · AI Annotator
 #### 🇳🇵 Nepal · UTC+5:45
 
 [![GitHub](https://img.shields.io/badge/GitHub-kabincs9-181717?style=for-the-badge&logo=github)](https://github.com/kabincs9)
@@ -28,7 +25,7 @@
 
 ---
 
-> Experienced in **research reporting**, **full-stack development**, **AI agent engineering**, **machine learning**, academic engagement across top global universities, and AI data annotation. Building in public from Nepal. 250+ GitHub contributions and counting.
+> Building at the intersection of **full-stack engineering**, **AI agent systems**, and **machine learning** — from Nepal, in public. 250+ GitHub contributions and counting.
 
 ---
 
@@ -36,9 +33,9 @@
 
 <div align="center">
 
-| 🔥 Contributions | 🏫 Academic Events | 📬 University Lists | 🗂️ Repos |
+| 🔥 Contributions | 🤖 AI Agent Projects | 🏅 Certifications | 🗂️ Repos |
 |:-:|:-:|:-:|:-:|
-| **250+ in 2025** | **100+** | **32+** | **24** |
+| **250+ in 2025** | **3** | **5+** | **28** |
 
 </div>
 
@@ -61,7 +58,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![uv](https://img.shields.io/badge/uv-Package_Manager-DE5FE9?style=flat-square&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter_Lab-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ### 🤖 AI & LangChain Ecosystem
 ![LangChain](https://img.shields.io/badge/LangChain-1C3D5A?style=flat-square&logo=chainlink&logoColor=white)
@@ -70,17 +66,9 @@
 ![Tavily](https://img.shields.io/badge/Tavily-Search_API-00B4D8?style=flat-square&logo=searchengin&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-FF6B35?style=flat-square&logo=protocol&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8B5CF6?style=flat-square&logo=openai&logoColor=white)
-![Agent Abstraction](https://img.shields.io/badge/Agent_Abstraction-14B8A6?style=flat-square&logo=probot&logoColor=white)
 ![Multi-Agent](https://img.shields.io/badge/Multi_Agent_Systems-F59E0B?style=flat-square&logo=apachekafka&logoColor=white)
 ![Custom State](https://img.shields.io/badge/Custom_State_Management-EC4899?style=flat-square&logo=redux&logoColor=white)
-![Agent Chat UI](https://img.shields.io/badge/Agent_Chat_UI-22C55E?style=flat-square&logo=chatbot&logoColor=white)
-![Middleware Agent](https://img.shields.io/badge/Middleware_Dynamic_Agent-EF4444?style=flat-square&logo=fastapi&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/Gen_AI-76B900?style=flat-square&logo=nvidia&logoColor=white)
-
-
-### AI & Design Tools
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-![DaVinci](https://img.shields.io/badge/DaVinci_Resolve-233A51?style=flat-square&logo=davinci-resolve&logoColor=white)
 
 ### Concepts
 ![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-8B5CF6?style=flat-square)
@@ -105,8 +93,7 @@
 
 ### 🤖 LangChain AI Agent Projects
 
-> Built as part of the **LangChain Academy — Foundation: Introduction to LangChain** course.
-> These projects demonstrate real-world AI agent design using LangGraph, MCP, multi-agent systems, custom state, prompt engineering, Tavily search, OpenAI platform integration, and middleware dynamic agents.
+> Real-world AI agent design using LangGraph, MCP, multi-agent systems, custom state, prompt engineering, Tavily search, OpenAI platform integration, and middleware dynamic agents.
 
 | Project | Description | Stack |
 |---|---|---|
@@ -149,21 +136,15 @@
 <div align="center">
 
 > Currently advancing through **IBM's Machine Learning** curriculum on SkillsBuild.
-> Earned a verified digital credential. Still completing the full **Foundations in Building Machine Learning Models** pathway.
+> Earned a verified digital credential. Completing the full **Foundations in Building Machine Learning Models** pathway.
 
----
+### 🏆 Digital Credential Earned
 
-### 🏆 Digital Credentials Earned
+| Badge | Issued By | Skills Validated | Credential |
+|:------|:---------:|:-----------------|:----------:|
+| **Machine Learning Methods & Tools** | IBM SkillsBuild | Supervised · Unsupervised · Reinforcement Learning · ML Algorithms · Python Libraries · Math & Stats | [![View Badge](https://img.shields.io/badge/View_Digital_Credential-054ADA?style=flat-square&logo=ibm&logoColor=white)](https://www.credly.com/badges/672ea47f-948f-474f-b9df-3f51eaa207aa/public_url) |
 
-| # | Badge | Issued By | Skills Validated | Credential |
-|:-:|:------|:---------:|:-----------------|:----------:|
-| 1️⃣ | **Machine Learning Methods & Tools** | IBM SkillsBuild | Supervised · Unsupervised · Reinforcement Learning · ML Algorithms · Python Libraries · Math & Stats | [![View Badge](https://img.shields.io/badge/View_Digital_Credential-054ADA?style=flat-square&logo=ibm&logoColor=white)](https://www.credly.com/badges/672ea47f-948f-474f-b9df-3f51eaa207aa/public_url) |
-
----
-
-### 📚 Currently Learning — Foundations in Building Machine Learning Models
-
-> 🔄 **In Progress** — Completing remaining modules of the IBM SkillsBuild ML pathway
+### 📚 Currently Learning
 
 | Module | Topic | Status |
 |:-------|:------|:------:|
@@ -175,21 +156,14 @@
 | 🎮 Reinforcement Learning | Agents, Rewards, Policies | 🔄 Learning |
 | 🛠️ ML Tools & Libraries | scikit-learn, Jupyter, Watson Studio | 🔄 Learning |
 
----
-
-### 🧩 ML Skills Tags
-
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-054ADA?style=flat-square&logo=ibm&logoColor=white)
 ![Supervised Learning](https://img.shields.io/badge/Supervised_Learning-0EA5E9?style=flat-square)
 ![Unsupervised Learning](https://img.shields.io/badge/Unsupervised_Learning-8B5CF6?style=flat-square)
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-F59E0B?style=flat-square)
-![ML Algorithms](https://img.shields.io/badge/ML_Algorithms-EC4899?style=flat-square)
-![Linear Regression](https://img.shields.io/badge/Linear_Regression-22C55E?style=flat-square)
-![Logistic Regression](https://img.shields.io/badge/Logistic_Regression-14B8A6?style=flat-square)
-![KNN](https://img.shields.io/badge/KNN-EF4444?style=flat-square)
-![SVM](https://img.shields.io/badge/SVM-FF6B35?style=flat-square)
-![XGBoost](https://img.shields.io/badge/XGBoost-76B900?style=flat-square)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-76B900?style=flat-square)
+![SVM](https://img.shields.io/badge/SVM-FF6B35?style=flat-square)
+![KNN](https://img.shields.io/badge/KNN-EF4444?style=flat-square)
 
 </div>
 
@@ -206,11 +180,9 @@
 
 ---
 
-## 🌍 Open Source & Academic Engagement
+## 🌍 Open Source & Community
 
 - 🔥 **250+ GitHub contributions** in 2025
-- 📚 Attended **100+ academic and technical events** hosted by Harvard, Stanford, MIT, Princeton, Columbia, NYU, Cornell, Johns Hopkins & more
-- 📬 Subscribed to **32+ international university** academic mailing lists
 - 🏆 GitHub Achievements: **YOLO · Pull Shark · Quickdraw**
 
 ---
@@ -225,9 +197,7 @@
 
 <div align="center">
 
----
-
-*"Experienced in research reporting, full-stack projects, AI agent engineering, machine learning, academic, technical, open-source communities and global platforms."*
+*"Building at the intersection of full-stack engineering, AI agent systems, and machine learning — from Nepal, in public."*
 
 [![GitHub](https://img.shields.io/badge/Follow_@kabincs9-181717?style=for-the-badge&logo=github)](https://github.com/kabincs9)
 
