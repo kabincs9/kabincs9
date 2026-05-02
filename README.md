@@ -9,7 +9,6 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝╚═╝  ╚═══╝
 </pre>
 
-#### Full-Stack Developer · AI Agent Engineer · ML Practitioner · AI Annotator
 #### 🇳🇵 Nepal · UTC+5:45
 
 [![GitHub](https://img.shields.io/badge/GitHub-kabincs9-181717?style=for-the-badge&logo=github)](https://github.com/kabincs9)
@@ -35,7 +34,7 @@
 
 | 🔥 Contributions | 🤖 AI Agent Projects | 🏅 Certifications | 🗂️ Repos |
 |:-:|:-:|:-:|:-:|
-| **250+ in 2025** | **3** | **5+** | **28** |
+| **250+ in 2025** | **3** | **5+** | **27** |
 
 </div>
 
