@@ -167,33 +167,7 @@
 
 </div>
 
----
 
-## 💼 Work Experience
-
-**UHRS (Microsoft)** — Part-Time Data Annotator *(2024 – Present)*
-- ~98% task accuracy on relevance evaluation, website quality analysis & bug detection
-- Contributed to AI and search engine quality improvements
-
-**Clickworker** — Freelance Microtasker *(2024 – Present)*
-- Data entry, web research, consistent quality and positive client feedback
-
----
-
-## 🌍 Open Source & Community
-
-- 🔥 **250+ GitHub contributions** in 2025
-- 🏆 GitHub Achievements: **YOLO · Pull Shark · Quickdraw**
-
----
-
-## 🤝 Volunteer & Extracurricular
-
-- **Non-Profit Volunteer** — Physical construction and resource distribution for community welfare
-- **Indira Voice Club** — Active member supporting school initiatives and community engagement
-- **Creative Media** — Graphic design & UI/UX using Canva, Meta AI, Eleven Labs, DaVinci Resolve
-
----
 
 <div align="center">
 
