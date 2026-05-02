@@ -24,7 +24,7 @@
 
 ---
 
-> Building at the intersection of **full-stack engineering**, **AI agent systems**, and **machine learning** — from Nepal, in public. 250+ GitHub contributions and counting.
+> Building at the intersection of **full-stack engineering**, **AI agent systems**, and **machine learning** — from Nepal, in public. 
 
 ---
 
