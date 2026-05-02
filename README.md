@@ -28,17 +28,6 @@
 
 ---
 
-## 📊 Stats at a Glance
-
-<div align="center">
-
-| 🔥 Contributions | 🤖 AI Agent Projects | 🏅 Certifications | 🗂️ Repos |
-|:-:|:-:|:-:|:-:|
-| **250+ in 2025** | **3** | **5+** | **27** |
-
-</div>
-
----
 
 ## 🛠️ Tech Stack
 
